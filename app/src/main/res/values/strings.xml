@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">CodeTest</string>
+
+    <string name="secret_key">36e78be43cb6d8a86edcdfe0834dd548</string>
+
+    <string name="grant_permission">you need to grant permissions to use this application</string>
+
+    <string name="url">https://api.darksky.net/forecast/36e78be43cb6d8a86edcdfe0834dd548/%1$s,%2$s</string>
+
+</resources>
